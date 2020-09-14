@@ -23,6 +23,6 @@ public class ObserverJavaAPI {
         obj.addObserver(obj1);
         obj.addObserver(obj2);
         obj.setData(100);
-        obj.setData(110);
+        obj.setData(120);
     }
 }
